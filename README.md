@@ -8,4 +8,4 @@ An interactive web application called Microbial Explorer using JavaScript, CSS, 
 ## Features:
 Leverages AI techniques to intelligently fetch and display the most relevant Wikipedia pages for microbes in question.
 Provides users with quick and relevant knowledge of each microbe in question.
-The app has a few predetermined short descriptions of some microbes and more can be added in the future.
+The app has a few predetermined short descriptions of some microbes and more can be added in the future within the .json file.
