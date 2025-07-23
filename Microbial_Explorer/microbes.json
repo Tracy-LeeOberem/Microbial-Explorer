@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Escherichia coli",
+    "type": "Bacteria",
+    "description": "A common gut bacterium. Some strains can cause foodborne illness."
+  },
+  {
+    "name": "Staphylococcus aureus",
+    "type": "Bacteria",
+    "description": "Can cause skin infections and is resistant to many antibiotics."
+  },
+  {
+    "name": "Mycobacterium tuberculosis",
+    "type": "Bacteria",
+    "description": "Causes tuberculosis, a major global health issue."
+  },
+  {
+    "name": "Salmonella enterica",
+    "type": "Bacteria",
+    "description": "A foodborne pathogen that causes salmonellosis."
+  },
+  {
+    "name": "Influenza A virus",
+    "type": "Virus",
+    "description": "Causes seasonal flu and is known for antigenic shift and drift."
+  },
+  {
+    "name": "SARS-CoV-2",
+    "type": "Virus",
+    "description": "The virus that causes COVID-19, a global pandemic."
+  },
+  {
+    "name": "HIV (Human Immunodeficiency Virus)",
+    "type": "Virus",
+    "description": "Infects immune cells and can lead to AIDS if untreated."
+  },
+  {
+    "name": "Ebola virus",
+    "type": "Virus",
+    "description": "Causes severe hemorrhagic fever with high mortality rates."
+  },
+  {
+    "name": "Candida albicans",
+    "type": "Fungus",
+    "description": "A common yeast that can cause infections like thrush."
+  },
+  {
+    "name": "Aspergillus fumigatus",
+    "type": "Fungus",
+    "description": "Can cause lung infections, especially in immunocompromised people."
+  },
+  {
+    "name": "Cryptococcus neoformans",
+    "type": "Fungus",
+    "description": "A fungal pathogen that causes meningitis, often in HIV patients."
+  }
+]
